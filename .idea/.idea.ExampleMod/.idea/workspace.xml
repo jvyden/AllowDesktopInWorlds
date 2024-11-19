@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2abaf326-1ad4-439c-bc33-a316b408a95a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ExampleMod.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AllowDesktopInWorlds.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExampleMod/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/AllowDesktopInWorlds/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExampleMod/ExampleMod.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AllowDesktopInWorlds/AllowDesktopInWorlds.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExampleMod/ExampleMod.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AllowDesktopInWorlds/AllowDesktopInWorlds.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExampleMod/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AllowDesktopInWorlds/Properties/AssemblyInfo.cs" afterDir="false" />
+    <list default="true" id="2abaf326-1ad4-439c-bc33-a316b408a95a" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExampleMod/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ExampleMod/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ExampleMod/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +54,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731975391711</updated>
-      <workItem from="1731975394398" duration="1637000" />
+      <workItem from="1731975394398" duration="2739000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1731977845705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731977845705</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,5 +72,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
